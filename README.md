@@ -46,8 +46,18 @@ status: >
 <td width="45%" valign="top">
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Govind9825&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=2&row=4" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Govind9825&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=3&row=3&rank=SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
 </div>
+
+```
+🎯 currently:
+   - Shipping AI platform infra
+   - Deepening distributed systems
+   - Sharpening CP (rated 1871)
+
+📫 reach me:
+   govindbhatter@gmail.com
+```
 
 </td>
 </tr>
