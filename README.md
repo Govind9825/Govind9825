@@ -241,10 +241,10 @@ Always open to hearing what you're building — or lending a hand if you need on
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=Govind9825&show_icons=true&theme=github_dark&hide_border=true&bg_color=0A0F0A&title_color=39FF14&icon_color=4ADE80&text_color=C9D1D9&count_private=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Govind9825&show_icons=true&theme=github_dark&hide_border=true&bg_color=0A0F0A&title_color=39FF14&icon_color=4ADE80&text_color=C9D1D9&cache_seconds=86400" width="100%"/>
 </td>
 <td width="50%" valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Govind9825&layout=compact&theme=github_dark&hide_border=true&bg_color=0A0F0A&title_color=39FF14&text_color=C9D1D9&langs_count=8" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Govind9825&layout=compact&theme=github_dark&hide_border=true&bg_color=0A0F0A&title_color=39FF14&text_color=C9D1D9&langs_count=8&cache_seconds=86400" width="100%"/>
 </td>
 </tr>
 </table>
