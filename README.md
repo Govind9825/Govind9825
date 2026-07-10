@@ -8,10 +8,10 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/govind-bhatter-969a81290"><img src="https://img.shields.io/badge/LinkedIn-0A0F0A?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=0A0F0A" /></a>
-<a href="https://leetcode.com/u/Govind9825/"><img src="https://img.shields.io/badge/LeetCode-0A0F0A?style=for-the-badge&logo=leetcode&logoColor=39FF14&labelColor=0A0F0A" /></a>
-<a href="https://portfolio-govind9825s-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A0F0A?style=for-the-badge&logo=googlechrome&logoColor=39FF14&labelColor=0A0F0A" /></a>
-<a href="mailto:govindbhatter@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A0F0A?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=0A0F0A" /></a>
+<a href="https://linkedin.com/in/govind-bhatter-969a81290"><img src="https://img.shields.io/badge/LinkedIn-0A0F0A?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0A0F0A" /></a>
+<a href="https://leetcode.com/u/Govind9825/"><img src="https://img.shields.io/badge/LeetCode-0A0F0A?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0A0F0A" /></a>
+<a href="https://portfolio-govind9825s-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A0F0A?style=for-the-badge&logo=googlechrome&logoColor=4285F4&labelColor=0A0F0A" /></a>
+<a href="mailto:govindbhatter@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A0F0A?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0A0F0A" /></a>
 
 </div>
 
@@ -177,30 +177,34 @@ Always open to hearing what you're building — or lending a hand if you need on
 <div align="center">
 
 **Languages**
-<br/>
-<img src="https://img.shields.io/badge/Python-0A0F0A?style=for-the-badge&logo=python&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/C%2B%2B-0A0F0A?style=for-the-badge&logo=c%2B%2B&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/TypeScript-0A0F0A?style=for-the-badge&logo=typescript&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/JavaScript-0A0F0A?style=for-the-badge&logo=javascript&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/C-0A0F0A?style=for-the-badge&logo=c&logoColor=39FF14" />
+<br/><br/>
+<img width="48" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
+<img width="48" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />&nbsp;&nbsp;
+<img width="48" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&nbsp;&nbsp;
+<img width="48" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+<img width="48" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+
+<br/><br/>
 
 **Frameworks & Runtime**
-<br/>
-<img src="https://img.shields.io/badge/React-0A0F0A?style=for-the-badge&logo=react&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/Next.js-0A0F0A?style=for-the-badge&logo=next.js&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/Node.js-0A0F0A?style=for-the-badge&logo=node.js&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/FastAPI-0A0F0A?style=for-the-badge&logo=fastapi&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/Express.js-0A0F0A?style=for-the-badge&logo=express&logoColor=39FF14" />
+<br/><br/>
+<img width="48" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;
+<img width="48" title="Next.js" style="background:#fff;border-radius:8px;padding:4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />&nbsp;&nbsp;
+<img width="48" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;&nbsp;
+<img width="48" title="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />&nbsp;&nbsp;
+<img width="48" title="Express.js" style="background:#fff;border-radius:8px;padding:4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+
+<br/><br/>
 
 **Data & Infra**
-<br/>
-<img src="https://img.shields.io/badge/PostgreSQL-0A0F0A?style=for-the-badge&logo=postgresql&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/MongoDB-0A0F0A?style=for-the-badge&logo=mongodb&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/Redis-0A0F0A?style=for-the-badge&logo=redis&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/MySQL-0A0F0A?style=for-the-badge&logo=mysql&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/Azure-0A0F0A?style=for-the-badge&logo=microsoftazure&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/Docker-0A0F0A?style=for-the-badge&logo=docker&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/Git-0A0F0A?style=for-the-badge&logo=git&logoColor=39FF14" />
+<br/><br/>
+<img width="48" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />&nbsp;&nbsp;
+<img width="48" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />&nbsp;&nbsp;
+<img width="48" title="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />&nbsp;&nbsp;
+<img width="48" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />&nbsp;&nbsp;
+<img width="48" title="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />&nbsp;&nbsp;
+<img width="48" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp;&nbsp;
+<img width="48" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 </div>
 
