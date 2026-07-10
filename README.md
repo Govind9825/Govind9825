@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0A0F0A&height=200&section=header&text=Govind%20Bhatter&fontSize=48&fontColor=39FF14&fontAlignY=38&desc=AI%20Engineer%20%7C%20System%20Designer%20%7C%20Builder&descAlignY=58&descColor=4ADE80&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0D1117&height=200&section=header&text=Govind%20Bhatter&fontSize=48&fontColor=39FF14&fontAlignY=38&desc=AI%20Engineer%20%7C%20System%20Designer%20%7C%20Builder&descAlignY=58&descColor=4ADE80&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=ICPC+Asia+West+Regionalist+%F0%9F%8F%86;LeetCode+Knight+%E2%9A%94%EF%B8%8F+Rating+1871+%7C+Top+5.5%25;2x+Published+AI%2FML+Researcher+%F0%9F%93%84;Building+production+systems+from+first+principles+%F0%9F%94%A7" alt="Typing SVG"/>
@@ -9,20 +9,34 @@
 <br/>
 
 <div align="center">
-
+<table>
+<tr>
+<td align="center" width="90">
 <a href="https://linkedin.com/in/govind-bhatter-969a81290">
-  <img width="40" title="LinkedIn" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/linkedin.svg" />
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/u/Govind9825/">
-  <img src="https://img.shields.io/badge/LeetCode-0A0F0A?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0A0F0A" />
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://portfolio-govind9825s-projects.vercel.app/">
-  <img width="40" title="Portfolio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
-</a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:govindbhatter@gmail.com">
-  <img width="40" title="Gmail" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/google-gmail.svg" />
+<img width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
-
+<br/><sub><b>LinkedIn</b></sub>
+</td>
+<td align="center" width="90">
+<a href="https://leetcode.com/u/Govind9825/">
+<img width="36" height="36" src="https://cdn.simpleicons.org/leetcode" />
+</a>
+<br/><sub><b>LeetCode</b></sub>
+</td>
+<td align="center" width="90">
+<a href="https://portfolio-govind9825s-projects.vercel.app/">
+<img width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
+</a>
+<br/><sub><b>Portfolio</b></sub>
+</td>
+<td align="center" width="90">
+<a href="mailto:govindbhatter@gmail.com">
+<img width="36" height="36" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/google-gmail.svg" />
+</a>
+<br/><sub><b>Gmail</b></sub>
+</td>
+</tr>
+</table>
 </div>
 
 </div>
@@ -257,6 +271,6 @@ Always open to hearing what you're building — or lending a hand if you need on
 
 <i>"First, solve the problem. Then, write the code."</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F0A,100:000000&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0D1117&height=100&section=footer" width="100%"/>
 
 </div>
