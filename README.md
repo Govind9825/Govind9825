@@ -47,24 +47,21 @@ contact:
 </td>
 <td width="50%" valign="top">
 
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="200" style="object-fit:cover;border-radius:8px"/>
+</div>
+
 ```bash
 $ whoami
-> Govind Bhatter — final-year CSE @ IIIT Vadodara
+> Govind Bhatter — CSE, IIIT Vadodara
 
 $ cat currently.txt
 > Shipping AI platform infra
 > Deepening distributed systems
 > Sharpening CP (rated 1871)
 
-$ cat fact.txt
-> First computer bug was a literal moth
-> stuck in a Harvard Mark II relay, 1947.
-
 $ ./ping govind
 > pong! usually replies within a day 🏓
-
-$ echo $STATUS
-> online, building, caffeinated ☕
 ```
 
 </td>
