@@ -8,10 +8,22 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/govind-bhatter-969a81290"><img src="https://img.shields.io/badge/LinkedIn-0A0F0A?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0A0F0A" /></a>
-<a href="https://leetcode.com/u/Govind9825/"><img src="https://img.shields.io/badge/LeetCode-0A0F0A?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0A0F0A" /></a>
-<a href="https://portfolio-govind9825s-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A0F0A?style=for-the-badge&logo=googlechrome&logoColor=4285F4&labelColor=0A0F0A" /></a>
-<a href="mailto:govindbhatter@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A0F0A?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0A0F0A" /></a>
+<div align="center">
+
+<a href="https://linkedin.com/in/govind-bhatter-969a81290">
+  <img width="40" title="LinkedIn" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/linkedin.svg" />
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/Govind9825/">
+  <img src="https://img.shields.io/badge/LeetCode-0A0F0A?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0A0F0A" />
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://portfolio-govind9825s-projects.vercel.app/">
+  <img width="40" title="Portfolio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
+</a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:govindbhatter@gmail.com">
+  <img width="40" title="Gmail" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/google-gmail.svg" />
+</a>
+
+</div>
 
 </div>
 
