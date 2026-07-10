@@ -46,7 +46,7 @@ status: >
 <td width="45%" valign="top">
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Govind9825&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=3&row=3&rank=SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:8px"/>
 </div>
 
 ```
@@ -222,6 +222,37 @@ Space reserved for your next shipped project — ping me when GuardianGPT or Ant
   <img alt="github-snake" src="https://raw.githubusercontent.com/Govind9825/Govind9825/output/github-snake-dark.svg" width="90%"/>
 </picture>
 </div>
+
+---
+
+## 🕹️ Extras
+
+<details>
+<summary><b>💻 click to run <code>whoami</code></b></summary>
+<br>
+
+```bash
+$ whoami
+> Govind Bhatter — final-year CSE, IIIT Vadodara
+
+$ cat interests.txt
+> agentic AI • distributed systems • competitive programming
+
+$ ./ping govind
+> pong! usually replies within a day 🏓
+```
+
+</details>
+
+<details>
+<summary><b>🎲 click for a random dev fact</b></summary>
+<br>
+
+Rotates every time someone reads it — not literally, GitHub won't run JS in a README, but pretend it did:
+
+> "The first computer bug was an actual moth stuck in a Harvard Mark II relay, 1947."
+
+</details>
 
 ---
 
